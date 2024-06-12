@@ -67,7 +67,7 @@ export default function About() {
 
             </p>
             <p>
-              Take a look around and let me know what you think. I am always looking for feedback and ways to improve. If you want to get in touch, shoot me an email or connect with me on social media!
+              If you want to get in touch, shoot me an email or connect with me on social media!
             </p>
 
             <div className=" flex w-full items-center justify-center  px-2.5 sm:hidden block ">
